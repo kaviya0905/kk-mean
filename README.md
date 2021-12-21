@@ -1,4 +1,4 @@
-
+ Git-comments
 Why should you use git? • It helps to keep track on changes made in code. • It helps to develop new code and push. • It helps to save easily all versions on git. • It easily shift to low versions from high version. • It helps to make collaborations also makes to multiple people to merge into one source. • It helps to have record on what has been done.
 
 What is the benefit of distributed version control? • Atomatically branching and merging is possible. • Users can work offline. • Multiple copies on single backup. • Speed can be more.
